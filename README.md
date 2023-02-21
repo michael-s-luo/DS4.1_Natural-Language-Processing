@@ -1,2 +1,16 @@
-# DS4.1_Natural-Language-Processing
-Bloomtech Data Science, Unit 4.1 NLP Assignments &amp; Projects
+# Bloomtech Data Science - Unit 4
+## 4.1: Natural Language Processing
+
+This repository serves to store and document my completed projects, assignments, and learning materials from the BloomTech Data Science curriculum.
+Unit 4.1 focuses on a broad overview of Natural Language Processing and is composed of the following topics:
+
+### 1: Natural Language Processing - Introduction
+
+### 2: Vector Representations
+
+### 3: Document Classification
+
+### 4: Topic Modeling
+
+
+Module Projects, Guided Projects, and Warm-up activities for this unit are located in each module's respective folder.
