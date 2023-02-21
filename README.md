@@ -5,6 +5,7 @@ This repository serves to store and document my completed projects, assignments,
 Unit 4.1 focuses on a broad overview of Natural Language Processing and is composed of the following topics:
 
 ### 1: Natural Language Processing - Introduction
+  * Documents - Tokenization, Stop Words, Lemmatization
 
 ### 2: Vector Representations
 
