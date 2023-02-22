@@ -5,7 +5,9 @@ This repository serves to store and document my completed projects, assignments,
 Unit 4.1 focuses on a broad overview of Natural Language Processing and is composed of the following topics:
 
 ### 1: Natural Language Processing - Introduction
-  * Documents - Tokenization, Stop Words, Lemmatization
+  * Main topics: Documents - Tokenization, Stop Words, Lemmatization
+  * Created Kindle vs FireHD Scattertext bsaed on Amazon product review data
+  * Keyword Analysis & Word Cloud visualization of Highly rated (4+ star) vs Lowly rated (3- star) coffee shops reviews
 
 ### 2: Vector Representations
 
