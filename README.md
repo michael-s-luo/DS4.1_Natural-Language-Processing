@@ -6,10 +6,14 @@ Unit 4.1 focuses on a broad overview of Natural Language Processing and is compo
 
 ### 1: Natural Language Processing - Introduction
   * Main topics: Documents - Tokenization, Stop Words, Lemmatization
-  * Created Kindle vs FireHD Scattertext bsaed on Amazon product review data
+  * Created Kindle vs FireHD Scattertext based on Amazon product review data
   * Keyword Analysis & Word Cloud visualization of Highly rated (4+ star) vs Lowly rated (3- star) coffee shops reviews
 
 ### 2: Vector Representations
+Main topics: Documents - Tokenization, Stop Words, Lemmatization
+  * Main topics: CountVectorizer and TF-IDF, Document Queries, Word Embedding techniques, Principal Component Analysis
+  * Trained KNN model to recommend similar BBC articles 
+  * 
 
 ### 3: Document Classification
 
