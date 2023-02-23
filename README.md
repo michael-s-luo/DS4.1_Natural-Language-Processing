@@ -1,4 +1,4 @@
-# Bloomtech Data Science - Unit 4
+# Data Science @ BloomTech - Unit 4
 ## 4.1: Natural Language Processing
 
 This repository serves to store and document my completed projects, assignments, and learning materials from the BloomTech Data Science curriculum.
