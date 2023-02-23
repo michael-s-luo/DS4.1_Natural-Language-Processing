@@ -16,6 +16,9 @@ Main topics: Documents - Tokenization, Stop Words, Lemmatization
   * Vectorized Data Science job listings on Indeed to find matches given input query
 
 ### 3: Document Classification
+  * Main topics: Document & Text classification pipelines, dimentionality reduction
+  * Applied Latent Semantic Indexing to predict topics of news forum posts
+  * 
 
 ### 4: Topic Modeling
 
