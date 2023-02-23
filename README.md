@@ -12,8 +12,8 @@ Unit 4.1 focuses on a broad overview of Natural Language Processing and is compo
 ### 2: Vector Representations
 Main topics: Documents - Tokenization, Stop Words, Lemmatization
   * Main topics: CountVectorizer and TF-IDF, Document Queries, Word Embedding techniques, Principal Component Analysis
-  * Trained KNN model to recommend similar BBC articles 
-  * 
+  * Trained NearestNeighbors model to recommend similar BBC articles
+  * Vectorized Data Science job listings on Indeed to find matches given input query
 
 ### 3: Document Classification
 
