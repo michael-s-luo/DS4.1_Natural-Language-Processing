@@ -18,7 +18,7 @@ Main topics: Documents - Tokenization, Stop Words, Lemmatization
 ### 3: Document Classification
   * Main topics: Document & Text classification pipelines, dimentionality reduction
   * Applied Latent Semantic Indexing to predict topics of news forum posts
-  * 
+  * Combined LSI, spaCy word embeddings, and GridSearch methods to predict Whiskey review topics
 
 ### 4: Topic Modeling
 
