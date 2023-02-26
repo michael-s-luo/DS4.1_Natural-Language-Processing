@@ -10,7 +10,6 @@ Unit 4.1 focuses on a broad overview of Natural Language Processing and is compo
   * Keyword Analysis & Word Cloud visualization of Highly rated (4+ star) vs Lowly rated (3- star) coffee shops reviews
 
 ### 2: Vector Representations
-Main topics: Documents - Tokenization, Stop Words, Lemmatization
   * Main topics: CountVectorizer and TF-IDF, Document Queries, Word Embedding techniques, Principal Component Analysis
   * Trained NearestNeighbors model to recommend similar BBC articles
   * Vectorized Data Science job listings on Indeed to find matches given input query
