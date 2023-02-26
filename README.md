@@ -21,6 +21,9 @@ Main topics: Documents - Tokenization, Stop Words, Lemmatization
   * Combined LSI, spaCy word embeddings, and GridSearch methods to predict Whiskey review topics
 
 ### 4: Topic Modeling
+  * Main topics: Latent Dirichlet Allocation, Visualizing and Interpreting Topic Models
+  * Used LDA to find topic clusters for labelled news forum posts
+  * Gensim-based unsupervised topic model of Amazon product reviews & visualization with pyLDAvis
 
 
-Module Projects, Guided Projects, and Warm-up activities for this unit are located in each module's respective folder.
+Module Projects, Relevant Datasets, Guided Projects, and Warm-up activities for this unit are located in each module's respective folder.
